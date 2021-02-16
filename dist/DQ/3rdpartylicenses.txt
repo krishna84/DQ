@@ -111,6 +111,8 @@ THE SOFTWARE.
 
 @angular/material/sidenav
 
+@angular/material/slider
+
 @angular/material/snack-bar
 
 @angular/material/stepper
@@ -246,6 +248,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+
+highcharts
+https://www.highcharts.com/license
+
+highcharts-angular
+SEE LICENSE IN <LICENSE>
 
 lodash
 MIT
